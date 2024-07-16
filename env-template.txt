@@ -1,0 +1,5 @@
+bootstrap_servers='right-cricket-11642-eu1-kafka.upstash.io:9092'
+sasl_mechanism='SCRAM-SHA-256'
+security_protocol='SASL_SSL'
+upstash_user='cmlnaHQtY3JpY2tldC0xMTY0MiRtfs3wnV8RK0nsbndtbs_LD43r6Nw1owDhhLE'
+upstash_pw='NGU1ZTRkYjctYzQ4YS00NzQ4LWFjMDMtYjg1YzI4ZTgwMGJk'
